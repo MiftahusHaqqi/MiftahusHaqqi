@@ -19,3 +19,6 @@ Saya memadukan keahlian teknis dengan prinsip desain **UI/UX** untuk menciptakan
 
 ### ⚡ Professional Note
 > Kedisiplinan saya dalam membangun kode yang bersih dan terstruktur juga tercermin dari ketelitian saya dalam mengelola ekosistem **aquascaping**. Saya percaya bahwa stabilitas—baik dalam kode maupun ekosistem—adalah kunci keberhasilan jangka panjang.
+
+![snake gif](https://github.com/MiftahusHaqqi/MiftahusHaqqi/blob/output/github-snake-dark.svg)
+
